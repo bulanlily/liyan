@@ -1,8 +1,8 @@
 1, install required package globally
 
-rpm install -g karma
+npm install -g karma
 
-rpm install -g karma-junit-reporter
+npm install -g karma-junit-reporter
 
 2, run the following under "liyan/src/main/resources/app" to start http server
 
